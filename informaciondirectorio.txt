@@ -1,2 +1,8 @@
 informaciondirectorio.txt
 main.sh
+informaciondirectorio.txt
+main1.sh
+main.sh
+informaciondirectorio.txt
+main1.sh
+main.sh
